@@ -2,7 +2,7 @@
     "name": "@coder/protocol",
     "main": "src/index.ts",
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "google-protobuf": "^3.6.1",
         "trash": "^4.3.0",
         "ws": "^6.1.2"
